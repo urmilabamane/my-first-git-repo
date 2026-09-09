@@ -1,0 +1,2 @@
+logic for integration our website with payment gateway API's
+e.g. paypal, razorpay, visa
